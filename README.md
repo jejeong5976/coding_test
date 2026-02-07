@@ -3,6 +3,10 @@
 ## 📌 Overview
 백준(BOJ)을 중심으로 코딩 테스트 대비를 위한 문제 풀이 및 알고리즘 학습 레포지토리
 
+# 🖥️ Coding Test Study (BOJ)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jje5976)](https://solved.ac/profile/jje5976)
+목표: 골드
 
 ## 🛠️ Language
 - Python
