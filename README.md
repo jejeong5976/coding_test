@@ -24,5 +24,5 @@
 
 
 ### solved.ac
-목표: 골드
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jje5976)](https://solved.ac/profile/jje5976)
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=jje5976)]
+- 목표: 골드
