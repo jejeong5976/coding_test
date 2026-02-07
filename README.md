@@ -10,9 +10,13 @@
 
 ## 📂 Repository Structure
   coding_test/
+  
   ├── study/
+  
   │ ├── math/
+  
   │ └── 브루트 포스/
+  
   └── README.md
 
 
